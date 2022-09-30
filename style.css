@@ -16,3 +16,6 @@
 .tabs-link{
     text-decoration: none;
 }
+.tabs-link:hover{
+    color: #FAC422;
+}
