@@ -33,6 +33,7 @@ body{
 .tabs-link{
     text-decoration: none;
     font-size: 16px;
+    color: #FFFFFF;
 }
 .tabs-link:hover{
     color: #FAC422;
@@ -47,6 +48,11 @@ body{
 }
 .basket{
     background: none;
+}
+.basket-img{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 40px;
 }
 .contact{
     background: none;
