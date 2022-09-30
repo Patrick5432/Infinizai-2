@@ -3,6 +3,9 @@
     margin: 0;
     font-family: 'Orbitron', sans-serif;
 }
+body{
+    background-color: black;
+}
 .logo{
     display: flex;
     align-items: center;
@@ -18,4 +21,10 @@
 }
 .tabs-link:hover{
     color: #FAC422;
+}
+.basket{
+    background: none;
+}
+.contact{
+    background: none;
 }
