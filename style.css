@@ -10,6 +10,20 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-around;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 20px;
+}
+.icon{
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 132,22px;
+}
+.tabs{
+    padding-left: 132,22px;
+    padding-top: 18px;
+    padding-right: 52,22px;
+    margin-bottom: 20px;
 }
 .tabs-ul{
     display: flex;
@@ -18,9 +32,18 @@ body{
 }
 .tabs-link{
     text-decoration: none;
+    font-size: 16px;
 }
 .tabs-link:hover{
     color: #FAC422;
+    font-size: 18px;
+}
+.tabs li{
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.buttons{
+    padding-left: 52,22px;
 }
 .basket{
     background: none;
