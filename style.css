@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Orbitron', sans-serif;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.tabs-ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+.tabs-link{
+    text-decoration: none;
+}
