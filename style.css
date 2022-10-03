@@ -31,19 +31,21 @@ body{
     list-style-type: none;
 }
 .tabs-link{
+    display: flex;
     text-decoration: none;
     font-size: 16px;
     color: #FFFFFF;
 }
 .tabs-link:hover{
     color: #FAC422;
-    font-size: 18px;
 }
 .tabs li{
     margin-right: 30px;
     margin-left: 30px;
 }
 .buttons{
+    display: flex;
+    justify-content: flex-end;
     padding-left: 52,22px;
 }
 .basket{
