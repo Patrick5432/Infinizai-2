@@ -38,6 +38,8 @@ body{
 }
 .tabs-link:hover{
     color: #FAC422;
+    font-size: 18px;
+    box-sizing: border-box;
 }
 .tabs li{
     margin-right: 30px;
