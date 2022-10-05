@@ -13,6 +13,7 @@ body{
     padding-left: 60px;
     padding-right: 60px;
     padding-top: 20px;
+    padding-bottom: 209px;
 }
 .icon{
     padding-top: 7px;
@@ -60,4 +61,51 @@ body{
 }
 .contact{
     background: none;
+}
+.main-menu{
+    padding-top: 209px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 250px;
+}
+/*.social-nav{
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 20px;
+    padding-right: 15px;
+}
+.social-ul{
+    display: flex;
+    justify-content: space-evenly;
+    transform: rotate(270deg);
+}
+.social-tabs-link{
+    text-decoration: none;
+    color: #80858F;
+}*/
+.text-generation{
+    padding-left: 15px;
+    margin-left: 15px;
+}
+.name-company{
+    padding-left: 15px;
+    padding-bottom: 16px;
+    padding-left: 15px;
+}
+.future-of-espots{
+    color: #57B8FF;
+    text-decoration: none;
+    padding-top: 6px;
+    padding-bottom: 10px;
+}
+.fire{
+
+}
+.description{
+    padding-top: 15px;
+    padding-left: 30px;
+}
+.text-descrition{
+    color: #999999;
+    font-size: 18px;
 }
