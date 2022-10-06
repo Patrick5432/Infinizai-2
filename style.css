@@ -65,6 +65,7 @@ body{
 .main-menu{
     padding-left: 60px;
     padding-right: 60px;
+    padding-bottom: 250px;
 }
 /*.social-nav{
     display: flex;
@@ -82,6 +83,7 @@ body{
     color: #80858F;
 }*/
 .text-generation{
+    width: 400px;
     padding-left: 30px;
 }
 .company-ul{
@@ -96,6 +98,7 @@ body{
     margin-left: 8px;
 }
 .description{
+    width: 600px;
     padding-top: 15px;
     padding-left: 30px;
 }
@@ -105,17 +108,17 @@ body{
 }
 .buttons-main{
     display: flex;
-    align-content: space-around;
+    justify-content: flex-start;
+    width: 400px;
     font-size: 18px;
     padding-top: 53px;
     padding-left: 30px;
-    padding-right: 0;
-    padding-bottom: 0;
-    margin-right: 0;
 }
 .button-link{
     text-decoration: none;
     color: #FFFFFF;
+}
+.explore-more{
     margin-right: 74px;
 }
 .button-link:hover{
@@ -123,9 +126,9 @@ body{
 .img-player{
     display: flex;
     justify-content: flex-end;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    padding-right: 60px;
 }
 .player{
-    padding-bottom: 0;
-    padding-left: 0;
-    padding-right: 0;
 }
