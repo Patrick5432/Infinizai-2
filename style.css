@@ -9,7 +9,7 @@ body{
 .logo{
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
     padding-left: 60px;
     padding-right: 60px;
     padding-top: 20px;
@@ -17,14 +17,12 @@ body{
 }
 .icon{
     padding-top: 7px;
-    padding-bottom: 7px;
-    padding-left: 132,22px;
 }
 .tabs{
-    padding-left: 132,22px;
+    /*padding-left: 132,22px;*/
     padding-top: 18px;
-    padding-right: 52,22px;
-    margin-bottom: 20px;
+    /*padding-right: 52,22px;*/
+    padding-bottom: 20px;
 }
 .tabs-ul{
     display: flex;
@@ -39,8 +37,8 @@ body{
 }
 .tabs-link:hover{
     color: #FAC422;
-    font-size: 17px;
-    box-sizing: border-box;
+    /*font-size: 17px;
+    box-sizing: border-box;*/
 }
 .tabs li{
     margin-right: 30px;
@@ -83,13 +81,17 @@ body{
     color: #80858F;
 }*/
 .text-generation{
-    width: 400px;
-    padding-left: 30px;
+    /*width: 400px;*/
+    /*padding-left: 30px;*/
+}
+.player{
+    margin-right: 60px;
+    padding-bottom: 0;
 }
 .company-ul{
     display: flex;
     justify-content: flex-start;
-    padding-left: 30px;
+    /*padding-left: 30px;*/
     list-style: none;
     color: #57B8FF;
 }
@@ -100,7 +102,7 @@ body{
 .description{
     width: 600px;
     padding-top: 15px;
-    padding-left: 30px;
+   /*padding-left: 30px;*/
 }
 .text-descrition{
     color: #999999;
@@ -109,10 +111,10 @@ body{
 .buttons-main{
     display: flex;
     justify-content: flex-start;
-    width: 400px;
+    /*width: 400px;*/
     font-size: 18px;
     padding-top: 53px;
-    padding-left: 30px;
+    /*padding-left: 30px;*/
 }
 .button-link{
     text-decoration: none;
@@ -121,14 +123,6 @@ body{
 .explore-more{
     margin-right: 74px;
 }
-.button-link:hover{
-}
-.img-player{
-    display: flex;
-    justify-content: flex-end;
-    margin-bottom: 0;
-    padding-bottom: 0;
-    padding-right: 60px;
-}
-.player{
+.none-background{
+    padding-top: 0;
 }
