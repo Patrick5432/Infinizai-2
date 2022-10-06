@@ -65,6 +65,9 @@ body{
     padding-right: 60px;
     padding-bottom: 250px;
 }
+.main-text{
+    width: 700px;
+}
 /*.social-nav{
     display: flex;
     justify-content: flex-start;
