@@ -136,3 +136,16 @@ body{
 .none-background{
     padding-top: 0;
 }
+.button-link{
+    padding-right: 34px;
+    padding-left: 34px;
+    padding-top: 21px;
+    padding-bottom: 21px;
+}
+.button-link:hover{
+    padding-right: 34px;
+    padding-left: 34px;
+    padding-top: 21px;
+    padding-bottom: 21px;
+    background-color: #57B8FF;
+}
