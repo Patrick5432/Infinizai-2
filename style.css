@@ -4,7 +4,10 @@
     font-family: 'Orbitron', sans-serif;
 }
 body{
-    background-color: black;
+    /*background-color: black;*/
+    background: linear-gradient(
+        to right, black 52.4%, #57B8FF 52.4%
+    );
 }
 .logo{
     display: flex;
@@ -83,13 +86,14 @@ body{
     text-decoration: none;
     color: #80858F;
 }*/
-.text-generation{пше 
+.text-generation{ 
     /*width: 400px;*/
     /*padding-left: 30px;*/
 }
 .player{
     margin-right: 60px;
-    padding-bottom: 0;
+    /*padding-bottom: 0;
+    margin-bottom: 0;*/
 }
 .company-ul{
     display: flex;
