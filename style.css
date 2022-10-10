@@ -8,7 +8,7 @@ button{
 }
 body{
     background: linear-gradient(
-        to right, black 55%, #57B8FF 55%
+        to right, black 52.5%, #57B8FF 52.5%
     );
 }
 .logo{
@@ -48,7 +48,6 @@ body{
 .buttons{
     display: flex;
     justify-content: flex-end;
-    padding-left: 52.22px;
 }
 .basket{
     background: none;
@@ -62,7 +61,7 @@ body{
     background: none;
 }
 .main-menu{
-    padding-left: 60px;
+    padding-left: 150px;
     padding-right: 60px;
     padding-bottom: 250px;
 }
