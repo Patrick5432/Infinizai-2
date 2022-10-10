@@ -3,10 +3,13 @@
     margin: 0;
     font-family: 'Orbitron', sans-serif;
 }
+button{
+    border: none;
+}
 body{
     /*background-color: black;*/
     background: linear-gradient(
-        to right, black 52.4%, #57B8FF 52.4%
+        to right, black 55%, #57B8FF 55%
     );
 }
 .logo{
@@ -50,7 +53,7 @@ body{
 .buttons{
     display: flex;
     justify-content: flex-end;
-    padding-left: 52,22px;
+    padding-left: 52.22px;
 }
 .basket{
     background: none;
