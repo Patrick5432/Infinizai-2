@@ -7,7 +7,6 @@ button{
     border: none;
 }
 body{
-    /*background-color: black;*/
     background: linear-gradient(
         to right, black 55%, #57B8FF 55%
     );
@@ -25,9 +24,7 @@ body{
     padding-top: 7px;
 }
 .tabs{
-    /*padding-left: 132,22px;*/
     padding-top: 18px;
-    /*padding-right: 52,22px;*/
     padding-bottom: 20px;
 }
 .tabs-ul{
@@ -43,8 +40,6 @@ body{
 }
 .tabs-link:hover{
     color: #FAC422;
-    /*font-size: 17px;
-    box-sizing: border-box;*/
 }
 .tabs li{
     margin-right: 30px;
@@ -89,19 +84,12 @@ body{
     text-decoration: none;
     color: #80858F;
 }*/
-.text-generation{ 
-    /*width: 400px;*/
-    /*padding-left: 30px;*/
-}
 .player{
     margin-right: 60px;
-    /*padding-bottom: 0;
-    margin-bottom: 0;*/
 }
 .company-ul{
     display: flex;
     justify-content: flex-start;
-    /*padding-left: 30px;*/
     list-style: none;
     color: #57B8FF;
 }
@@ -112,7 +100,6 @@ body{
 .description{
     width: 600px;
     padding-top: 15px;
-   /*padding-left: 30px;*/
 }
 .text-descrition{
     color: #999999;
@@ -121,10 +108,8 @@ body{
 .buttons-main{
     display: flex;
     justify-content: flex-start;
-    /*width: 400px;*/
     font-size: 18px;
     padding-top: 53px;
-    /*padding-left: 30px;*/
 }
 .button-link{
     text-decoration: none;
